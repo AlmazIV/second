@@ -1,0 +1,10 @@
+D:\GitDZ\gitVSS\MyNotePad\MyNotePad\bin\Debug\MyNotePad.exe.config
+D:\GitDZ\gitVSS\MyNotePad\MyNotePad\bin\Debug\MyNotePad.exe
+D:\GitDZ\gitVSS\MyNotePad\MyNotePad\bin\Debug\MyNotePad.pdb
+D:\GitDZ\gitVSS\MyNotePad\MyNotePad\obj\Debug\MyNotePad.csproj.AssemblyReference.cache
+D:\GitDZ\gitVSS\MyNotePad\MyNotePad\obj\Debug\MyNotePad.Form1.resources
+D:\GitDZ\gitVSS\MyNotePad\MyNotePad\obj\Debug\MyNotePad.Properties.Resources.resources
+D:\GitDZ\gitVSS\MyNotePad\MyNotePad\obj\Debug\MyNotePad.csproj.GenerateResource.cache
+D:\GitDZ\gitVSS\MyNotePad\MyNotePad\obj\Debug\MyNotePad.csproj.CoreCompileInputs.cache
+D:\GitDZ\gitVSS\MyNotePad\MyNotePad\obj\Debug\MyNotePad.exe
+D:\GitDZ\gitVSS\MyNotePad\MyNotePad\obj\Debug\MyNotePad.pdb
